@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878639215664",
+    "project_id": "nector-cda3f",
+    "storage_bucket": "nector-cda3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878639215664:android:94b6d46a727f8e4898e9f5",
+        "android_client_info": {
+          "package_name": "com.example.nector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqPZn-s5HpiofvE9H07tnTEYfWR7QTRAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
